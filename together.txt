@@ -1,3 +1,5 @@
 I don't have a great idea for the capstone unfortunately :( I'm going to look at the Airbnb problem from Vikesh (Darren)
 
 thank you for sharing the file and I added this comment :).
+
+How can data analytics techniques be leveraged to optimize response times to communication alarms, door held open alerts, and access alarms within Lenel by GSOC, considering contextual factors such as time of day, staffing levels, and historical response patterns, and what actionable insights can be derived to enhance operational efficiency and improve overall security performance? (Mihaela Capstone Project Research Title)
